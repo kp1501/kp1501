@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kp1501, Khush Parmar and I'm Enthusiast & Curious bout technology.I like to learn new day by day.
+- 👋 Hi, I’m @kp1501, Khush Parmar and I'm Enthusiast & Curious about technology.I like to learn new tech day by day.
 - 👀 I’m interested in Mobile Application Development.
 - 🌱 I’m currently learning Android Application Development.
 - 💞️ I’m looking to collaborate on Mobile Application Development.
